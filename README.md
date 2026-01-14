@@ -35,3 +35,5 @@ A simple Node.js API for user registration and login.
 - Users are stored in `users.json` (not suitable for production).
 - JWT secret is hardcoded as 'secretkey' (change for production).
 - No input validation beyond basic checks.
+
+- https://basic-backend-rho.vercel.app/api - vercel[prakashkalisamyofficial@gmail.com]
